@@ -1,0 +1,7 @@
+# Used by `wrangler pages dev`
+# Copy to `.dev.vars` and fill in real values locally (do not commit).
+OPENAI_API_KEY=your-openai-api-key
+OPENAI_MODEL=gpt-4o
+SUPABASE_URL=https://your-project-id.supabase.co
+SUPABASE_SERVICE_ROLE_KEY=your-supabase-service-role-key
+CORS_ORIGIN=http://localhost:3000
