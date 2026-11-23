@@ -11,7 +11,7 @@ const FONT_LINK = `@import url('https://fonts.googleapis.com/css2?family=Baloo+2
 
 const API_BASE = typeof window !== "undefined" && window.VYAPAI_API_BASE
   ? window.VYAPAI_API_BASE
-  : "http://localhost:8788/api";
+  : "https://api.vyapai.in/api";
 const DEMO_ORG_ID = "00000000-0000-0000-0000-000000000001";
 
 // ── Mock Data ──────────────────────────────────────────────────
